@@ -1,6 +1,6 @@
 # Django Rclone Storage
 
-A simple Rclone wrapper as a Django storage.
+A simple wrapper for Rclone as a Django storage.
 
 ## Usage
 
