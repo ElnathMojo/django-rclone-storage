@@ -12,7 +12,7 @@ jobs:
     strategy:
       matrix:
         include:
-          - python: 3.5
+          - python: 3.7
             tox: flake8
           - python: 3.5
             tox: py35-django22
